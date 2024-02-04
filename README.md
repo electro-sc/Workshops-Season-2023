@@ -56,9 +56,9 @@ Please :star: this repo to help us improve the quality.
 
 
 ## Media
-Here are some pictures taken during our Arduino Bootcamp!
+Here are some pictures taken during our Workshops Season's Workshops!
 
-## Pictures Captured During The Bootcamp
+## Pictures Captured During The Workshops
 3D Design Workshop, Picture 1           | 3D Design Workshop, Picture 2
 :---------------------:|:------------------:
 ![image](RepoImages/1.jpg) | ![image](RepoImages/2.jpg)
